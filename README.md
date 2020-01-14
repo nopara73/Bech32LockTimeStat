@@ -1,3 +1,4 @@
+```
 locktime zero, count: 307050, percentage: 92.09%
 locktime tip, count: 1092, percentage: 0.33%
 locktime -1, count: 16928, percentage: 5.08%
@@ -129,3 +130,4 @@ locktime -850, count: 1, percentage: 0.00%
 locktime -3844, count: 1, percentage: 0.00%
 locktime -3920, count: 3, percentage: 0.00%
 locktime -71939, count: 1, percentage: 0.00%
+```
